@@ -4,7 +4,7 @@ Prototipo de Gestión de Personas y Proyectos, BANANA Gest. Permite a los emplea
 
 Prototipo: https://www.figma.com/proto/tufbSeq4BhxMVYtiiOH64D/Banana-Guest?node-id=62-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=62%3A2
 
-Prototipo realizado con las herramientas de Figma, Donde se realiza una pagina de inicio con un filtro de usuario y contraseña para autenticacion de los usuarios. Teniendo acceso usuarios del departamento de recuersos humanos y del departamento de coders.
+Prototipo realizado con las herramientas de Figma, Donde se realiza una pagina de inicio con un filtro de usuario y contraseña para autenticacion de los usuarios proporcionado por la empresa. Teniendo acceso usuarios del departamento de recuersos humanos o del departamento de coders.
 
 El acceso a usuarios pertenecientes al departamento de recursos humanos muestra un modelo de interfaz para ver los usuarios de la empresa y su informacion en conjunto con sus proyectos. 
 
